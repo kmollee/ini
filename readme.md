@@ -1,6 +1,6 @@
 # INI
 
-The ini parser and operate
+The ini parser and operate implement in golang
 
 
 ## TODO
