@@ -1,5 +1,7 @@
 # INI
 
+[![Build Status](https://travis-ci.com/kmollee/ini.svg?branch=master)](https://travis-ci.com/kmollee/ini)
+
 The ini parser and operate implement in golang
 
 
