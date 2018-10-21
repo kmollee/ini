@@ -20,7 +20,7 @@ The ini parser and operate implement in golang
 ## Install
 
 ```
-go install github.com/kmollee/ini/....
+go install github.com/kmollee/ini/...
 ```
 
 
